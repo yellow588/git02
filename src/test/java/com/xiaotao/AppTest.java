@@ -9,6 +9,6 @@ public class AppTest {
         System.out.println("dev.......");
         System.out.println("dev.......");
         System.out.println("master.......");
-        System.out.println("C1操作.......");
+        System.out.println("C4操作.......");
     }
 }
